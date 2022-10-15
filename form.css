@@ -12,7 +12,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(MicrosoftTeams-image (1).png);
+    background-image: url(MicrosoftTeams-image\ \(1\).png); 
 }
 
 .container {
@@ -27,7 +27,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #fde3a7d7;
+    background-color: #423f38d7;
     padding: 1rem;
 }
 
